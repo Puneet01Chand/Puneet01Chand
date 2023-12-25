@@ -122,7 +122,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneet01Chand\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneet01Chand\&custom_title=GitHub%20Status&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Puneet01Chand&theme=midnight-purple)](https://git.io/streak-stats)
 
@@ -134,13 +134,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Puneet01Chand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Puneet01Chand&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Puneet01Chand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Puneet01Chand&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Puneet Chand</a></p>
-<hr>
