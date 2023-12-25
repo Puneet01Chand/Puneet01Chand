@@ -76,7 +76,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart" />
   </a>
 </p>
 
@@ -97,7 +97,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,xd,idea,vscode,postman,androidstudio" />
   </a>
 </p>
 
@@ -118,16 +118,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Puneet01Chand&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Achievements:</h3>
-
-[![An image of @Puneet01Chand's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Puneet01Chand)](https://holopin.io/@Puneet01Chand)
-<br><br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
@@ -143,7 +134,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Puneet01Chand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Puneet01Chand&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Puneet01Chand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Puneet01Chand&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
