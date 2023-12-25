@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://wallpapercave.com/wp/wp7080156.jpg" height="300px" style="width: 100%; height: auto; object-fit: cover;">
+ <img src="https://e1.pxfuel.com/desktop-wallpaper/286/891/desktop-wallpaper-anime-c-programming-blue-eyes-book-cover-3840x2160-anime-programming.jpg" height="450" style="width: 100%; height: auto; object-fit: cover;">
 </p>
 <hr>
 <!-- 
@@ -26,29 +26,40 @@
 <br>
 
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="icon" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="icon" width="40" height="40" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.webp">
-<br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+🚀 What I Do:
 
-- 🌱 I’m currently learning **Devops**
+- **Flutter Enthusiast:** I eat, sleep, and breathe Flutter. From building pixel-perfect UIs to optimizing app performance, I'm always up for a Flutter challenge.
+  
+- **Problem Solver:** I love tackling complex problems and finding elegant solutions. Whether it's a tricky UI animation or a performance bottleneck, I enjoy the process of dissecting challenges and coming up with efficient solutions.
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- **Open Source Advocate:** I believe in the power of collaboration. You'll often find me contributing to open source projects, sharing my knowledge, and learning from the amazing Flutter community.
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+#### 🛠️ Tech Stack:
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- **Flutter/Dart:** My primary tools of the trade. I'm well-versed in Flutter's widget system and know how to make the most out of Dart's capabilities.
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- **Firebase:** Leveraging Firebase for backend services, authentication, and real-time database functionality.
 
-- ⚡ Fun fact **I think I'm funny**
+- **Git:** Version control is key. I ensure clean and organized repositories with meaningful commit messages.
 
-<br>
+#### 🌱 What's Next:
+
+I'm always eager to learn and stay updated with the latest in Flutter and mobile development. Currently exploring [Current Interest or Project], where I'm diving deep into [Specific Technology or Concept].
+
+#### 🤝 Let's Connect:
+
+I'm open to collaboration, discussions, and sharing insights. Feel free to reach out if you have exciting projects, need help, or just want to chat about Flutter and mobile development.
+
+<!-- <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
@@ -57,7 +68,7 @@
 <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Puneet Chand" height="30" width="40" /></a>
 </p>
-<br>
+<br> -->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
