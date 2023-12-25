@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Puneet Chand</h1>
 <!-- <h3 align="center">A passionate Programmer from Sri lanka</h3> -->
-<p align="center">I'm a passionate Flutter developer with 1.3 years of hands-on experience in crafting delightful cross-platform mobile applications. My journey in the world of Flutter has been nothing short of exhilarating, and I'm constantly thrilled by the possibilities this framework brings to the table.🛠️</p>
+<p align="center">I'm a Flutter developer with a profound passion for creating immersive and user-centric mobile applications. Over the course of my journey in the tech world, I've dedicated myself to mastering the art of Flutter development, delivering seamless cross-platform  experiences that blend functionality with aesthetics </p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Puneet01Chand&label=Profile%20views&color=0e75b6&style=flat" alt="Puneet Chand" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Puneet Chand's languages" /> -->
@@ -16,9 +16,11 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"width="35" height="35">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://www.svgrepo.com/show/353751/flutter.svg"width="35" height="35">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg"width="35" height="35">
 </div>
 
 <br>
