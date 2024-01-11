@@ -53,7 +53,7 @@
 
 #### 🌱 What's Next:
 
-I'm always eager to learn and stay updated with the latest in Flutter and mobile development. Currently exploring [Current Interest or Project], where I'm diving deep into [Specific Technology or Concept].
+I'm always eager to learn and stay updated with the latest in Flutter and mobile development.
 
 #### 🤝 Let's Connect:
 
