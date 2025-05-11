@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://e1.pxfuel.com/desktop-wallpaper/286/891/desktop-wallpaper-anime-c-programming-blue-eyes-book-cover-3840x2160-anime-programming.jpg" height="450" style="width: 100%; height: auto; object-fit: cover;">
+ <img src="https://raw.githubusercontent.com/Puneet01Chand/puneet-portfolio/refs/heads/main/public/images/cover.jpg" height="450" style="width: 100%; height: auto; object-fit: cover;">
 </p>
 <hr>
 <!-- 
