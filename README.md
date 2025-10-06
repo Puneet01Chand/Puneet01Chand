@@ -1,148 +1,253 @@
+<div align="center">
+
+# 👋 Welcome to My Digital Workspace
+
+<img src="https://raw.githubusercontent.com/Puneet01Chand/puneet-portfolio/refs/heads/main/public/images/cover.jpg" alt="Cover Image" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+
+### Hi, I'm **Puneet** — Flutter Developer & Mobile App Enthusiast
+
 <p align="center">
- <img src="https://raw.githubusercontent.com/Puneet01Chand/puneet-portfolio/refs/heads/main/public/images/cover.jpg" height="450" style="width: 100%; height: auto; object-fit: cover;">
-</p>
-<hr>
-<!-- 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
-
-<h1 align="center">Hi 👋, I'm Puneet </h1>
-<!-- <h3 align="center">A passionate Programmer from Sri lanka</h3> -->
-<p align="center">I'm a Flutter developer with a profound passion for creating immersive and user-centric mobile applications. Over the course of my journey in the tech world, I've dedicated myself to mastering the art of Flutter development, delivering seamless cross-platform  experiences that blend functionality with aesthetics </p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Puneet01Chand&label=Profile%20views&color=0e75b6&style=flat" alt="Puneet Chand" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Puneet Chand's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/Puneet01Chand"> -->
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"width="35" height="35">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://www.svgrepo.com/show/353751/flutter.svg"width="35" height="35">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg"width="35" height="35">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Puneet01Chand&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Puneet01Chand?label=Followers&style=for-the-badge&color=blue" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Puneet01Chand?label=Stars&style=for-the-badge&color=yellow" alt="Stars">
+</p>
+
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="icon" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-</div>
+## 🚀 About Me
+
+```dart
+class Developer {
+  final String name = "Puneet";
+  final String role = "Flutter Developer";
+  final List<String> passions = [
+    "Creating beautiful UIs",
+    "Solving complex problems",
+    "Open source contribution",
+    "Learning new technologies"
+  ];
+  
+  void introduce() {
+    print("Crafting seamless cross-platform experiences with Flutter");
+  }
+}
+```
+
+I'm a passionate **Flutter Developer** specializing in building immersive, user-centric mobile applications. With expertise in creating pixel-perfect UIs and optimizing performance, I transform ideas into elegant, functional solutions that users love.
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.webp">
 
-🚀 What I Do:
+### 💡 What I Bring to the Table
 
-- **Flutter Enthusiast:** I eat, sleep, and breathe Flutter. From building pixel-perfect UIs to optimizing app performance, I'm always up for a Flutter challenge.
-  
-- **Problem Solver:** I love tackling complex problems and finding elegant solutions. Whether it's a tricky UI animation or a performance bottleneck, I enjoy the process of dissecting challenges and coming up with efficient solutions.
+- **🎨 Flutter Mastery** — Expert in Flutter's widget system and Dart capabilities
+- **🔥 Firebase Integration** — Real-time databases, authentication, and cloud functions
+- **⚡ Performance Optimization** — Making apps fast, smooth, and efficient
+- **🤝 Collaborative Spirit** — Active open-source contributor and community member
+- **🧩 Problem Solving** — Turning complex challenges into elegant solutions
 
-- **Open Source Advocate:** I believe in the power of collaboration. You'll often find me contributing to open source projects, sharing my knowledge, and learning from the amazing Flutter community.
+### 🎯 Current Focus
 
-#### 🛠️ Tech Stack:
+- 📱 Building scalable mobile applications with Flutter
+- 🌐 Exploring cross-platform development patterns
+- 🔐 Implementing secure authentication flows
+- 📚 Contributing to open-source Flutter packages
 
-- **Flutter/Dart:** My primary tools of the trade. I'm well-versed in Flutter's widget system and know how to make the most out of Dart's capabilities.
+---
 
-- **Firebase:** Leveraging Firebase for backend services, authentication, and real-time database functionality.
-
-- **Git:** Version control is key. I ensure clean and organized repositories with meaningful commit messages.
-
-#### 🌱 What's Next:
-
-I'm always eager to learn and stay updated with the latest in Flutter and mobile development.
-
-#### 🤝 Let's Connect:
-
-I'm open to collaboration, discussions, and sharing insights. Feel free to reach out if you have exciting projects, need help, or just want to chat about Flutter and mobile development.
-
-<!-- <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Puneet Chand" height="30" width="40" /></a>
-</p>
-<br> -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,xd,idea,vscode,postman,androidstudio" />
-  </a>
-</p>
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Trophy:</h3>
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Puneet01Chand&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Puneet01Chand&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneet01Chand\&custom_title=GitHub%20Status&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Puneet01Chand&theme=midnight-purple)](https://git.io/streak-stats)
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,javascript,typescript,python,cpp,c" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,figma,xd,postman,docker" />
+</p>
 
 </div>
 
-<br><br>
+---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## 📊 GitHub Analytics
 
-<h3 align="left">Activity:</h3>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Puneet01Chand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Puneet01Chand&theme=tokyonight&hide_border=true" />
+</div>
 
-![Puneet01Chand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Puneet01Chand&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet01Chand&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Puneet01Chand&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Puneet01Chand&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puneet01Chand&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/Puneet01Chand/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puneet01Chand&repo=repo1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Puneet01Chand/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puneet01Chand&repo=repo2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Puneet01Chand/repo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puneet01Chand&repo=repo3&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Puneet01Chand/repo4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puneet01Chand&repo=repo4&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+| Certification | Platform | Year |
+|--------------|----------|------|
+| Flutter Development | Udemy | 2024 |
+| Firebase Fundamentals | Google | 2024 |
+| Git & GitHub | Coursera | 2023 |
+
+</div>
+
+---
+
+## 💻 Workspace Setup
+
+```javascript
+const workspace = {
+  os: "Windows 11 / macOS",
+  editor: "VS Code / Android Studio",
+  terminal: "PowerShell / iTerm2",
+  tools: ["Git", "Postman", "Figma", "Firebase"],
+  coffee: "☕☕☕ (Essential)"
+};
+```
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] Contribute to 5 major open-source Flutter projects
+- [ ] Build and launch 3 production-ready mobile apps
+- [ ] Write 20+ technical blog posts
+- [ ] Mentor 10 aspiring Flutter developers
+- [ ] Achieve 1000+ GitHub stars across repositories
+
+---
+
+## 🌟 Fun Facts
+
+```python
+fun_facts = {
+    "favorite_language": "Dart",
+    "code_editor": "VS Code with Material Theme",
+    "hobbies": ["Coding", "Reading Tech Blogs", "Gaming"],
+    "currently_learning": "Advanced Flutter Animations",
+    "fun_quote": "First, solve the problem. Then, write the code."
+}
+```
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects and discuss mobile development!
+
+**Open to:**
+- 💼 Freelance opportunities
+- 🤝 Collaboration on open-source projects
+- 💬 Consulting and mentorship
+- 🎤 Speaking engagements
+
+### 📬 Reach Out
+
+<p>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting!
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**⭐ Star my repositories if you find them useful!**
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
